@@ -1,0 +1,20 @@
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.csprojResolveAssemblyReference.cache
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll.config
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.Entities\bin\Debug\EntityFramework.dll
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.Entities\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.Entities\bin\Debug\EntityFramework.xml
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll.config
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.Entities\bin\Debug\EntityFramework.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.Entities\bin\Debug\EntityFramework.xml
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.csprojResolveAssemblyReference.cache
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.pdb

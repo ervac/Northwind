@@ -1,0 +1,24 @@
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\bin\Debug\Northwind.DataAccessLayer.dll.config
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\bin\Debug\Northwind.DataAccessLayer.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\bin\Debug\Northwind.DataAccessLayer.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\bin\Debug\EntityFramework.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\bin\Debug\Northwind.Entities.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\bin\Debug\Northwind.Entities.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\bin\Debug\EntityFramework.xml
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.pdb
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\bin\Debug\Northwind.DataAccessLayer.dll.config
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\bin\Debug\Northwind.DataAccessLayer.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\bin\Debug\Northwind.DataAccessLayer.pdb
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\bin\Debug\Northwind.Entities.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\bin\Debug\Northwind.Entities.pdb
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.pdb

@@ -1,0 +1,32 @@
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.BusinessLayer.dll
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.BusinessLayer.pdb
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\obj\Debug\Northwind.BusinessLayer.csprojResolveAssemblyReference.cache
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\obj\Debug\Northwind.BusinessLayer.dll
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\obj\Debug\Northwind.BusinessLayer.pdb
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.DataAccessLayer.dll
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.Entities.dll
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\EntityFramework.dll
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.DataAccessLayer.pdb
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.Entities.pdb
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ULUCAY\documents\visual studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\ULUCAY\documents\visual studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ULUCAY\documents\visual studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\ULUCAY\documents\visual studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Ninject.dll
+C:\Users\ULUCAY\documents\visual studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Ninject.xml
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.BusinessLayer.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.BusinessLayer.pdb
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\FluentValidation.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\Ninject.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.DataAccessLayer.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.Entities.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\System.ComponentModel.Primitives.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\EntityFramework.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.DataAccessLayer.pdb
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.Entities.pdb
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\FluentValidation.xml
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\Ninject.xml
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\bin\Debug\EntityFramework.xml
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\obj\Debug\Northwind.BusinessLayer.csprojResolveAssemblyReference.cache
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\obj\Debug\Northwind.BusinessLayer.dll
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.BusinessLayer\obj\Debug\Northwind.BusinessLayer.pdb
